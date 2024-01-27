@@ -1,6 +1,5 @@
 import { Button } from 'react-bootstrap';
-import ListGroup from 'react-bootstrap/ListGroup';
-import  "./stylesheet/View.css"
+import  "./stylesheet/view.css"
 
 function View(props){
 
