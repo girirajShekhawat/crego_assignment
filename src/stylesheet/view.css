@@ -1,0 +1,45 @@
+.result{
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+    width: 100%;
+    background-color:antiquewhite;
+    overflow-y: auto;
+}
+
+ .resultCard{
+    display: flex ;
+    width: 50;
+    height: 70px;
+    padding: 5px;
+    padding-left: 15px;
+    margin-top: 1px;
+    background-color: aliceblue;
+
+ }
+
+ .resultBox{
+    height: 50px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    
+ }
+
+ .resultBox p{
+ margin-left:5px ;
+ margin-right: 5px;
+ }
+
+ .button{
+    margin-left:  400px;
+    height: 40px;
+
+ }
+ 
+ .value{
+    margin-top: 7px;
+ }
+ 

@@ -1,0 +1,13 @@
+
+/* .mainBody{
+    background-color: gray;
+    height: 100vh;
+ } */
+
+.Appbody{
+    width:1400px;
+    height: 100vh;
+    
+    margin: auto;
+    margin-top: 1px;
+}
